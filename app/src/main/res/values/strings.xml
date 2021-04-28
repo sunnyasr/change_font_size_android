@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Font Change</string>
+
+    <string name="small">16</string>
+    <string name="medium">20</string>
+    <string name="large">30</string>
+</resources>
